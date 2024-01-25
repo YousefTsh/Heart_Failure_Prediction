@@ -12,7 +12,7 @@ The project utilizes machine learning (Linear Regression) to preform heart failu
 * Tkinter
 * ttkbootstrap
 * Numpy,Pandas
-* matplotli
+* matplotlib
 * sklearn
 
 ## APP Review
